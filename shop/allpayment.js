@@ -1,31 +1,23 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY GILBERT
 
-*🏧 BANK*
-
-1. BRI 
-	ㅁ 8881 0887 4350 47326
-2. BCA 
-	ㅁ 3901 0887 4350 47326
-3. BNI 
-	ㅁ 881 0887 4350 47326
-4. PERMATA
-	ㅁ 852 8887 4350 47326
+*BANK*
+sementara ini belum ada kak😊
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 081235136510
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ Tidak tersedia
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 081235136510
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama GILBERT
 
 *📲 PULSA*
+	ㅁ 081235136510
 
-Tidak tersedia
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
