@@ -1,5 +1,5 @@
 const list_cod = (prefix) => {
-return `*ZEEONE OFC さ*
+return `*Gilbert geraldoさ*
 				
 PROSES	1-60Mnt 1X24 Jam			
 OPEN	10.00-19.00			
